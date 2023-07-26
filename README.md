@@ -29,7 +29,7 @@ now run the server and take the screenshot of the outputs.
 </body>
 </html>
 ## Output:
-![placesaroundme](placesaround.JPG)
+![placesaroundme](placesaroundme.JPG)
 ![church](church.JPG)
 ![dak.](dak.JPG)
 ![saibuilders](saibuilders.JPG)
