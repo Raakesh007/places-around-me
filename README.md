@@ -30,7 +30,8 @@ now run the server and take the screenshot of the outputs.
 </html>
 ## Output:
 ![placesaroundme](placesaround.JPG)
-![church](church.JPG)
+![church](church.JPG)![placesaroundme](https://github.com/dharshan7200/places-around-me/assets/138850116/a0690621-e835-442a-9ce0-b9447182c063)
+
 ![dak.](dak.JPG)
 ![saibuilders](saibuilders.JPG)
 ![technology](technology.JPG)
