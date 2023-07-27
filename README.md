@@ -30,7 +30,7 @@ now run the server and take the screenshot of the outputs.
 </body>
 </html>
 
-## aca.html:
+aca.html:
 
 <!DOCTYPE html>
 <html>
@@ -48,7 +48,7 @@ now run the server and take the screenshot of the outputs.
 </body>
 </html>
 
-## dak.html:
+dak.html:
 
 <!DOCTYPE html>
 <html>
@@ -65,7 +65,7 @@ now run the server and take the screenshot of the outputs.
 </body>
 </html>
 
-## insysness.html:
+insysness.html:
 
 <!DOCTYPE html>
 <html>
@@ -83,7 +83,7 @@ now run the server and take the screenshot of the outputs.
 </body>
 </html>
 
-## saibuilders.html:
+saibuilders.html:
 
 <!DOCTYPE html>
 <html>
@@ -101,7 +101,7 @@ now run the server and take the screenshot of the outputs.
 </body>
 </html>
 
-## dazziling.html:
+dazziling.html:
 
 <!DOCTYPE html>
 <html>
