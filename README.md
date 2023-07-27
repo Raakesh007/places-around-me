@@ -24,6 +24,7 @@ now run the server and take the screenshot of the outputs.
 <area  alt="" title="insysness" href="/static/html/insysness.html" shape="rect" coords="473,418,526,468" style="outline:none;" target="_self"     />
 <area  alt="" title="dazzling" href="/static/html/dazzling.html" shape="rect" coords="774,424,827,474" style="outline:none;" target="_self"     />
 <area  alt="" title="dak" href="/static/html/dak.html" shape="rect" coords="523,649,592,690" style="outline:none;" target="_self"     />
+<area shape="rect" coords="1257,700,1259,702" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
 </map>
 
 </body>
